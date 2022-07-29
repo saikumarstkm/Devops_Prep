@@ -1,0 +1,7 @@
+1. Environment variables
+2. different types of shells
+3. useradd with default shell / with home directory / with expiry and usermod 
+4. history 
+5. tree
+6. ls , chmod , cp , mv , less , more , rm 
+7. package manager 
